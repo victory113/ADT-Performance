@@ -1,0 +1,28 @@
+
+#Project specific
+presentation_rubric.pdf
+
+
+# new addition to git ignore
+.vs/*
+
+# Visual Studio Code (Windows)
+/.DS_Store
+*.exe
+*.ilk
+*.obj
+*.pdb
+*.dSYM
+*.sln
+*.vcxproj
+x64
+
+# VS Code
+.vscode
+Info.plist*
+
+# Build files
+/build
+*AutoTest*
+main
+
