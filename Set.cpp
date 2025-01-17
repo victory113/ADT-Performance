@@ -1,4 +1,4 @@
-//done by: Emmanuel Johnson
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
