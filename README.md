@@ -189,5 +189,5 @@ Provides nanosecond-level precision cross-platform, making results reproducible 
 
 ## Author
 
-**Victory Orobosa** — CS Junior @ University of Central Arkansas  
+**Victory Orobosa** — CS Senior @ University of Central Arkansas  
 [LinkedIn](https://linkedin.com/in/victory-orobosa) · [GitHub](https://github.com/victory113)
